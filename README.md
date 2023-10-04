@@ -6,7 +6,7 @@ Using the starter code for the webpage, I edited the html and css files to use s
 
 ## Credits
 
-Started code was cloned from https://github.com/coding-boot-camp/urban-octo-telegram
+Starter code was cloned from https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## Lauched Website
 
