@@ -1,4 +1,4 @@
-![olivia-the-g github io_Challenge-01_Horiseon-Homepage_(Nest Hub)](https://github.com/Olivia-the-G/Challenge-01_Horiseon-Homepage/assets/130778807/b83196aa-adbf-4e4f-8565-2401c113a0bf)# Challenge 01 Horiseon Homepage
+# Challenge 01 Horiseon Homepage
 
 ## Description
 
