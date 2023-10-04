@@ -1,0 +1,14 @@
+Tasks checklist:
+
+TO DO
+
+Finished
+- rewrite title element to be descriptive and concise 
+- make alt atributes for all img elements 
+- move html elements (if needed) to follow a logical structure
+- rename all the divs
+- rename corresponding css properties
+- make sure all heading elements are in sequential order
+- add css comments
+- reorganize css elements
+- fix links
