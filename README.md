@@ -1,4 +1,4 @@
-# Challenge 01 Horiseon Homepage
+![olivia-the-g github io_Challenge-01_Horiseon-Homepage_(Nest Hub)](https://github.com/Olivia-the-G/Challenge-01_Horiseon-Homepage/assets/130778807/b83196aa-adbf-4e4f-8565-2401c113a0bf)# Challenge 01 Horiseon Homepage
 
 ## Description
 
@@ -7,6 +7,11 @@ Using the starter code for the webpage, I edited the html and css files to use s
 ## Credits
 
 Started code was cloned from https://github.com/coding-boot-camp/urban-octo-telegram
+
+## Lauched Website
+
+https://olivia-the-g.github.io/Challenge-01_Horiseon-Homepage/ 
+![olivia-the-g github io_Challenge-01_Horiseon-Homepage_(Nest Hub)](https://github.com/Olivia-the-G/Challenge-01_Horiseon-Homepage/assets/130778807/244f4d67-6810-41bb-a911-31f914162a30)
 
 ## License
 
